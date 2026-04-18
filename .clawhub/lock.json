@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1776484801171
+    },
+    "gh-issues": {
+      "version": "1.0.0",
+      "installedAt": 1776484806597
+    },
+    "model-usage": {
+      "version": "1.0.0",
+      "installedAt": 1776484811619
+    },
+    "nano-pdf": {
+      "version": "1.0.0",
+      "installedAt": 1776484816630
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1776484822482
+    },
+    "apple-notes": {
+      "version": "1.0.0",
+      "installedAt": 1776485079177
+    },
+    "apple-reminders": {
+      "version": "1.0.0",
+      "installedAt": 1776485084601
+    }
+  }
+}
