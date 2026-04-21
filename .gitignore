@@ -1,0 +1,36 @@
+# Credentials — NEVER commit
+.gog_credentials.json
+*.json.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenClaw runtime state — don't back up
+.openclaw/workspace-state.json
+.openclaw/sessions/
+.openclaw/cron/
+.clawhub/lock.json
+
+# Environment secrets
+.env
+.env.*
+*credentials*
+*secret*
+*token*
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node/npm (if running in workspace)
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/

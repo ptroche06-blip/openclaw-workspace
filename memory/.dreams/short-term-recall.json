@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-21T02:17:30.764Z",
+  "entries": {
+    "memory:memory/2026-04-19.md:1:33": {
+      "key": "memory:memory/2026-04-19.md:1:33",
+      "path": "memory/2026-04-19.md",
+      "startLine": 1,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "# 2026-04-19 — Warren's Log ## Session Highlights - Pat (J Pock) confirmed my name is Warren 🐝 - OAuth setup: personal Gmail (ptroche06@gmail.com) connected via gog — working - Calendar populated with recurring Monash uni classes (CIV2282, ETC1000, CIV2206, BTC1110) — weekly until May 29 - Email sent to martinroche21@gmail.com successfully via gog - Discussed building a stock analysis app/script for Pat's portfolio building ## Overnight Mission Given Pat wants a stock analysis agent/system built. Brief: - Apply Elon Musk principles: Start big → Delete → Add back if necessary → Optimize - Research and plan due 8AM Sun Apr 20 - Spawn sub-agent to do deep research on: data sources, Python",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.262705396870105,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-20T06:55:39.824Z",
+      "lastRecalledAt": "2026-04-21T02:17:27.847Z",
+      "queryHashes": [
+        "203c5c78d713",
+        "e5c64081b481",
+        "5d51714bc46d"
+      ],
+      "recallDays": [
+        "2026-04-20",
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "gmail.com",
+        "app/script",
+        "agent/system",
+        "sub-agent",
+        "warren's",
+        "log",
+        "highlights",
+        "pat"
+      ]
+    },
+    "memory:memory/2026-04-21.md:77:99": {
+      "key": "memory:memory/2026-04-21.md:77:99",
+      "path": "memory/2026-04-21.md",
+      "startLine": 77,
+      "endLine": 99,
+      "source": "memory",
+      "snippet": "- Accessible: Yahoo Finance, Bloomberg, AFR, MarketWatch, ASX announcements, SEC filings, Finviz, StockAnalysis. - Pat's goal unclear — asked what he actually wants from these platforms. ## Chelsea's Project — 2026-04-20/21 - Lunchtime survey analysis for Chelsea (teacher) - Google Sheet: 1naZqE8W15KrlVcsDXfmq5kqqLy1S1qDjmNdTghhfMJ4 - Survey data: student preferences, boredom causes, equipment wants - Created \"Analysis & Summary\" tab with % breakdowns + 3 bar charts - Created 11-slide Google Slides presentation - Sent to Chelsea with spreadsheet + presentation links ## gog Email Body Reading — SOLVED `gog gmail get <message-id>` — this command reads email BODY content. Not in help output b",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6315514809596797,
+      "maxScore": 0.6315514809596797,
+      "firstRecalledAt": "2026-04-21T02:17:27.847Z",
+      "lastRecalledAt": "2026-04-21T02:17:27.847Z",
+      "queryHashes": [
+        "5d51714bc46d"
+      ],
+      "recallDays": [
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "2026-04-20/21",
+        "11-slide",
+        "message-id",
+        "accessible",
+        "yahoo",
+        "finance",
+        "bloomberg",
+        "afr"
+      ]
+    },
+    "memory:memory/2026-04-21.md:49:82": {
+      "key": "memory:memory/2026-04-21.md:49:82",
+      "path": "memory/2026-04-21.md",
+      "startLine": 49,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "- fluid-memory — vector-based memory (Ebbinghaus forgetting curve). chromadb installed ✅ ### Blocked (VirusTotal flags) NOT installing these — eval() or crypto key patterns detected: - stock-tracker-pro ❌ - stock-monitor ❌ - elite-longterm-memory ❌ - productivity-bot ❌ - memory-on-demand ❌ ### Features Identified but Not Yet Configured 1. **Active Memory** — plugin that searches memory before every reply. Currently OFF. Needs gateway config change. 2. **Standing Orders** — permanent operating authority for defined programs. Not yet written. 3. **Native OpenClaw Cron** — built-in scheduler to replace launchd agent. 4. **Memory Compaction** — auto-compacts old conversations into summaries.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.6312834040436832,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-21T02:17:27.847Z",
+      "lastRecalledAt": "2026-04-21T02:17:30.764Z",
+      "queryHashes": [
+        "5d51714bc46d",
+        "e32bf208e70e"
+      ],
+      "recallDays": [
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "gateway",
+        "fluid-memory",
+        "vector-based",
+        "stock-tracker-pro",
+        "stock-monitor",
+        "elite-longterm-memory",
+        "productivity-bot",
+        "memory-on-demand"
+      ]
+    }
+  }
+}

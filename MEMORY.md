@@ -1,85 +1,81 @@
-# MEMORY.md — Active Execution Layer
+# MEMORY.md — Pat's AI Operating Layer
 
-_This file drives behaviour daily. Update it every evening._
-_Last updated: 2026-04-18_
+_Updated: 2026-04-19_
 
----
+## Who I Am
+- Name: Warren 🐝
+- Role: Pat's right-hand AI agent — sovereign system, proactive operator
+- Owner: Pat (J Pock, @Jpockyyy)
 
-## Current Priorities (Max 3 — Non-Negotiable)
+## Pat's Context
+- Commerce/Engineering student, Monash University, ~3rd year
+- Personal email: ptroche06@gmail.com (connected via gog ✅)
+- Monash email: proc0002@student.monash.edu (OAuth blocked by uni — work around this)
+- Target firms: Macquarie, EY (internships)
+- Ambitious, proactive, wants to build real things
+- Ran Etsy drop-shipping business age 16-18
+- Stack: Python, OpenClaw agent infra
 
-1. **[PRIORITY 1]** _TBD — set this each morning_
-2. **[PRIORITY 2]** _TBD_
-3. **[PRIORITY 3]** _TBD_
+## What's Been Built
 
----
+### Stock Analysis System (MVP LIVE)
+- Location: `~/.openclaw/workspace/stock-analysis/`
+- Watchlist: NVDA, AAPL, CSL.AX, BHP.AX, CBA.AX
+- Scripts: `financials.py` (data fetch), `daily_briefing.py` (briefing gen)
+- Output: daily markdown briefings in `output/briefings/YYYY-MM-DD.md`
+- Skill: `~/.openclaw/workspace/skills/stock-briefing/SKILL.md`
+- First briefing ran 2026-04-19 with live data ✅
+- Next: GitHub repo, cron job, Simon Beard application
 
-## Active Stock Watchlist
+### Google Workspace (Gmail + Calendar ✅)
+- gog connected to ptroche06@gmail.com ✅
+- Calendar populated with recurring Monash classes (Mon/Tue/Wed/Fri) through May 29
+- Email sending works via gog
 
-| Stock | Moat Type | Thesis (1-2 lines) | Risk Flags |
-|-------|-----------|-------------------|------------|
-| _TBD_ | _type_ | _thesis_ | _flag_ |
-| _TBD_ | _type_ | _thesis_ | _flag_ |
+## Current Priorities
+1. **Simon Beard AI Agent Orchestrator application** — draft + submit
+2. **GitHub repo for stock system** — Pat needs a "something you built" for the application
+3. **Set up 6:30 AM daily briefing cron** — push to Telegram
 
----
+## Pat's Goals (Tracking)
+- Land Macquarie/EY internship 2026/27
+- Build personal stock portfolio with moat-based research
+- Build AI agent skills that demonstrate capability
 
-## Career / Positioning
+## Decisions Made
+- Use personal Gmail for agent infra (Monash OAuth blocked)
+- Python + yfinance + OpenClaw for stock analysis (MVP-first approach)
+- Stock system as the portfolio project for Simon Beard application
 
-**Skills being built this week:**
-- _skill 1_
-- _skill 2_
+## Pat's Design Preferences (learned 2026-04-20)
 
-**Firms / Roles of interest:**
-- _broad area 1_
-- _broad area 2_
+### What he responds to:
+- Bloomberg/terminal dark aesthetics with professional polish
+- Data density done cleanly — not cluttered
+- Premium feel = institutional quality, not "AI startup"
+- Bloomberg meets modern fintech, not typical SaaS dashboard
 
-**Current positioning status:**
-_What is Warren doing right now to differentiate?_
+### What he doesn't like:
+- "Clunky and AI" — anything that looks generated or generic
+- Emoji in professional contexts (wants Lucide/Heroicons instead)
+- Headers that look like ChatGPT output
 
----
+### What he wants in the dashboard:
+1. Clickable stock cards → individual stock detail pages
+2. Each detail page: summary, news, 52wk range viz, ROIC/margin/moat breakdown
+3. Premium briefing page — like institutional equity research
+4. News integration (even if placeholder to start)
+5. Mobile responsive
 
-## Academic Load
+### How he wants to work:
+- Give him options and let him pick ("here are 3 approaches")
+- He likes to be surprised with good execution
+- He wants me to learn his preferences organically
+- When he gives feedback, capture it for future sessions
 
-**Subjects:**
-- _subject 1_ ( _status_ )
-- _subject 2_ ( _status_ )
+### His goals:
+- Portfolio piece for Macquarie/EY internships
+- Wants to impress recruiters
+- Shares my work when it's genuinely impressive
+- Values substance + presentation equally
 
-**Immediate deadlines (next 2 weeks):**
-| Item | Due | Risk Level |
-|------|-----|------------|
-| _item_ | _date_ | 🟢 low / 🟡 med / 🔴 high |
-
----
-
-## Bottlenecks (Most Important)
-
-_Current blocker #1:_ _describe_
-
-_Current blocker #2:_ _describe_
-
-> **Rule:** If bottleneck changes → update this section immediately.
-> Do not let a resolved bottleneck sit here. Replace it.
-
----
-
-## Evening Check-In Log
-
-| Date | Completed | Planned | Gap | Next Action |
-|------|-----------|---------|-----|------------|
-| _YYYY-MM-DD_ | _what_ | _what_ | _what_ | _what_ |
-
----
-
-## Today's Execution
-
-**Morning block:**
-_What Warren committed to doing today_
-
-**Executed:**
-_What actually happened_
-
-**Variance:**
-_Why the gap exists (be honest)_
-
----
-
-_This file is rewritten every evening. It is the operating system's working memory._

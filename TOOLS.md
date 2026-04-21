@@ -16,6 +16,18 @@ Things like:
 ## Examples
 
 ```markdown
+### Gmail / Calendar (Google Workspace)
+
+- Account: ptroche06@gmail.com
+- CLI: gog (installed at /opt/homebrew/bin/gog)
+- Auth file: ~/.openclaw/workspace/.gog_credentials.json (do not share)
+- Connected services: gmail, calendar, drive, contacts, docs, sheets
+
+**Common commands:**
+- `GOG_ACCOUNT=ptroche06@gmail.com gog gmail search 'in:inbox' --max 10`
+- `GOG_ACCOUNT=ptroche06@gmail.com gog calendar events ptroche06@gmail.com --from 2026-04-19 --to 2026-04-25`
+- Set `GOG_ACCOUNT=ptroche06@gmail.com` to avoid repeating --account flag
+
 ### Cameras
 
 - living-room → Main area, 180° wide angle
